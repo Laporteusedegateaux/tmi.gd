@@ -1,3 +1,7 @@
+### the Spork
+
+This is likely to refactor a lot of the code for my own purposes.
+
 # tmi.gd
 
 homebrewed twitch integration for use in Godot games and applications
